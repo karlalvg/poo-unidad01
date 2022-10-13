@@ -55,7 +55,7 @@ public class Practica_if {
         System.out.println("El pais de de origen es "+auto4.getPaisMarca());
         
         System.out.println(auto5.mostrarInfo());
-        System.out.println("El pais de de origen es "+auto5.getPaisMarca());
+        System.out.println("el pais de de origen es "+auto5.getPaisMarca());
        
     }
         
